@@ -50,21 +50,7 @@
 
 </div>
   <DIV class="column">
-  <style>
-    .gallery {
-      display: flex;       /* картинки идут в ряд */
-      gap: 20px;           /* отступы между ними */
-      justify-content: center; /* выравнивание по центру */
-    }
-    .gallery img {
-      width: 50px;        /* ширина картинки */
-      border-radius: 10px; /* скругление углов (необязательно) */
-      transition: 0.3s;    /* плавный эффект */
-    }
-    .gallery img:hover {
-      transform: scale(1.05); /* лёгкое увеличение при наведении */
-    }
-  </style>
+ 
 </head>
          </DIV>
  
