@@ -66,14 +66,6 @@
     }
   </style>
 </head>
-<body>
-  <div class="gallery">
-    <a href="https://www.youtube.com" target="_blank">
-      <img src="1.png" alt="Картинка 1">
-    </a>
-    <a href="https://ya.ru" target="_blank">
-      <img src="2.png" alt="Картинка 2">
-    </a>
          </DIV>
  
       <DIV class="column">
